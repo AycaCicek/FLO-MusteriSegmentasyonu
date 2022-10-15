@@ -14,3 +14,5 @@ INTO ##C
 FROM flo_data_20k$
 
 SELECT * INTO FLO FROM ##C
+
+![image](https://user-images.githubusercontent.com/92053918/195984313-ec370d3a-3fbc-440e-b7cc-b4d978d5513e.png)
