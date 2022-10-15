@@ -1,7 +1,7 @@
 # FLO Müşteri Segmentasyonu
 Data Set: Private by FLO
 
-#SQL KOD
+# SQL KOD
 SELECT TOP 10 * FROM flo_data_20k$
  
 SELECT master_id,order_channel,last_order_channel,first_order_date,last_order_date,
